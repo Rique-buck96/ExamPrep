@@ -1,0 +1,10 @@
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\bin\Debug\YAXLibTests.dll
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\bin\Debug\YAXLibTests.pdb
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\bin\Debug\nunit.framework.dll
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\bin\Debug\YAXLib.dll
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\bin\Debug\YAXLib.pdb
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\bin\Debug\YAXLib.xml
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\bin\Debug\nunit.framework.xml
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\obj\Debug\YAXLibTests.csprojResolveAssemblyReference.cache
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\obj\Debug\YAXLibTests.dll
+D:\Users\Enrique\Desktop\YAXLib-master\YAXLibTests\obj\Debug\YAXLibTests.pdb
